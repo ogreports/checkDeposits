@@ -1,4 +1,4 @@
-# Check Deposits service for [KASh Tip Bot](https://github.com/ogreports/kashtipbot)
+# Check Deposits service for [KASH Tip Bot](https://github.com/ogreports/kashtipbot)
 
 ## About
 
