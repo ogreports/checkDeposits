@@ -1,4 +1,4 @@
-# Check Deposits service for [@Honktipbot](https://t.me/honktipbot)
+# Check Deposits service for [@](https://t.me/)
 
 ## About
 
@@ -12,7 +12,7 @@ To listen SLP network use https://slpsocket.fountainhead.cash
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/KeithPatrick5/checkDeposits
+   git clone https://github.com/ogreports/checkDeposits
    ```
 
 2. Create AWS DynamoDB tables:
